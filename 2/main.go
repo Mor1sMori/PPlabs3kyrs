@@ -12,4 +12,7 @@ func main() {
 	} else {
 		fmt.Println("Число не четное")
 	}
+	for i := 1; i <= num; i++ {
+
+	}
 }
